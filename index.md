@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "The Rockefeller Archive Center’s Culturally Competent (Re)Description Education Campaign"
+title:  "Culturally Competent (Re)Description Education Campaign"
 ---
 
 Following the murder of George Floyd and the release of the [RAC’s Statement In Solidarity with the Black Community](https://rockarch.org/about-us/in-solidarity-with-the-black-community/), RAC archivists recognized that we have the opportunity to use archival description as a means for resisting the white supremacy inhabiting the archive’s records, humanizing individuals and groups who have been marginalized within the collections, and gaining the trust of users who often feel alienated by archives. To initiate the work, members of the Processing Team developed an education campaign to learn more about cultural competency in relation to archival description.
