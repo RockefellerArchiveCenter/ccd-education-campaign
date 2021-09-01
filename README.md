@@ -1,5 +1,6 @@
-# Docs template
-A template for docs.rockarch.org documentation repositories. Include a short description of the documentation.
+# The Rockefeller Archive Center’s Culturally Competent (Re)Description Education Campaign
+
+A summary of the RAC's CCD Education Campaign. 
 
 ## Accessing the documentation
 This content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
