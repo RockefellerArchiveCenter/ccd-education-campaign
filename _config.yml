@@ -1,9 +1,10 @@
-public:
+public: "true"
 type: "docs"
-category:
+category: "arrangement and description"
 tags:
+  - "policy"
 
-title:
-description:
+title: "Culturally Competent (Re)Description Education Campaign"
+description: "Summary of the RAC's CCD education campaign"
 pages:
-  - ["Documentation Title", "index"]
+  - ["Culturally Competent (Re)Description Education Campaign", "index"]
