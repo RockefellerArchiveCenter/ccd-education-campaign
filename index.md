@@ -79,7 +79,7 @@ The RAC archivists responsible for developing and carrying out the RAC’s CCD c
 
 ___
 
-[^1]: [Tang, Annie. “Dealing with Dealer Descriptions: Navigating Black and Asian Identities as Creators and Subjects in Purchased Manuscripts Collections.” In "Toward Culturally Competent Archival (Re)Description of Marginalized Histories", by Tang, Annie; Berry, Dorothy; Bolding, Kelly; and Winston, Rachel E. (2018). Library Presentations, Posters, and Videos. Society of American Archivists Conference Presentation. [https://digitalcommons.chapman.edu/library_presentations/23](https://digitalcommons.chapman.edu/library_presentations/23)
+[^1]: [Tang, Annie. “Dealing with Dealer Descriptions: Navigating Black and Asian Identities as Creators and Subjects in Purchased Manuscripts Collections.” In "Toward Culturally Competent Archival (Re)Description of Marginalized Histories", by Tang, Annie; Berry, Dorothy; Bolding, Kelly; and Winston, Rachel E. (2018). Library Presentations, Posters, and Videos. Society of American Archivists Conference Presentation. https://digitalcommons.chapman.edu/library_presentations/23](https://digitalcommons.chapman.edu/library_presentations/23)
 
 [^2]: [Farnel, Sharon, et al. "Rethinking representation: indigenous peoples and contexts at the University of Alberta Libraries." (2018).](https://jps.library.utoronto.ca/index.php/ijidi/article/view/32190/24567)
 
