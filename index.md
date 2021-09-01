@@ -63,7 +63,7 @@ Collaboration with the Reference Team.
 ### Reading Group 3 - CCD Case Study for the RAC’s Audiovisual Materials
 
 Collaboration with the Collections Management Team and the 2020 Selznick Fellow.
-- [“A Gray Zone of Noncompromise: Sponsored Film, the American Film Center, and One Tenth of Our Nation”](https://www.jstor.org/stable/10.2979/filmhistory.31.3.05) by Craig Kridel
+- [“A Gray Zone of Noncompromise: Sponsored Film, the American Film Center, and *One Tenth of Our Nation*”](https://www.jstor.org/stable/10.2979/filmhistory.31.3.05) by Craig Kridel
 - [*One Tenth of Our Nation*](https://youtu.be/oKX9UzsWkqc) (1940, 27 minutes) 
 - [*As Our Boyhood Is*](https://youtu.be/JzhApvrlvdU) (1943, 17 minutes)  
 - [“Feeling Comes First.” Music and Sounds as Entertaining Forces in *The City, The River, and One Tenth of Our Nation*](https://www.academia.edu/44469844/_Feeling_comes_first_Music_and_Sounds_as_Entertaining_Forces_in_The_City_The_River_and_One_Tenth_of_Our_Nation) by Costanza Salvi
