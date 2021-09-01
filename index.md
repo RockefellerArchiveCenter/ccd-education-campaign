@@ -36,7 +36,7 @@ The first phase of the education campaign began in December 2020 and consisted o
 - Provided agenda in advance
 - General takeaways and definitions
 - Initial icebreaker question to encourage discussion
-- Read aloud the University of Minnesota Extension’s [“Setting ground rules for productive discussions”](https://extension.umn.edu/public-engagement-strategies/setting-ground-rules-productive-discussions)
+- Read aloud the University of Minnesota Extension’s "[Setting ground rules for productive discussions](https://extension.umn.edu/public-engagement-strategies/setting-ground-rules-productive-discussions)"
 - Split into breakout rooms for smaller discussion groups
 
 ## Phase 2
