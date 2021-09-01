@@ -1,4 +1,4 @@
-# The Rockefeller Archive Center’s Culturally Competent (Re)Description Education Campaign
+# Culturally Competent (Re)Description Education Campaign
 
 A summary of the RAC's CCD Education Campaign. 
 
